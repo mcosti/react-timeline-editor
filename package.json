@@ -1,7 +1,7 @@
 {
-  "name": "@xzdarcy/react-timeline-editor",
-  "version": "0.1.9",
-  "author": "xzdarcy",
+  "name": "@mcosti/react-timeline-editor",
+  "version": "0.1.10",
+  "author": "mcosti",
   "license": "MIT",
   "keywords": [
     "timeline",
@@ -11,9 +11,9 @@
     "typescript"
   ],
   "bugs": {
-    "url": "https://github.com/xzdarcy/react-timeline-editor/issues"
+    "url": "https://github.com/mcosti/react-timeline-editor/issues"
   },
-  "homepage": "https://github.com/xzdarcy/react-timeline-editor#readme",
+  "homepage": "https://github.com/mcosti/react-timeline-editor#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xzdarcy/react-timeline-editor.git"
